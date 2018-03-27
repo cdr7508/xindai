@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>task_post</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="post">
+            <path d="M8.92514095,18 L5,14.6939258 L7.67898302,6.39767578 L10.1087384,6.39767578 L12.7567045,14.7875977 L8.92514095,18 Z M14.220605,12.5730469 L13.1070785,12.5730469 L11.4169886,7.73880859 L14.220605,11.4816016 L14.220605,12.5730469 L14.220605,12.5730469 Z" id="职位" fill="#808080"></path>
+            <path d="M7.36998297,2.4 L10.4439865,2.4 L9.76136027,5.28039062 L8.00085557,5.28039062 L7.36998297,2.4 Z" id="Path" stroke="#808080" stroke-width="0.8"></path>
+            <rect id="Rectangle-9" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="18" height="18"></rect>
+        </g>
+    </g>
+</svg>

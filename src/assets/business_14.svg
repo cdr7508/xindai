@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>business_14</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5查询-业务查询-业务详情" transform="translate(-15.000000, -744.000000)">
+            <g id="business_14" transform="translate(15.000000, 744.000000)">
+                <g id="用印合同起草" transform="translate(1.000000, 1.000000)">
+                    <path d="M8.99121951,18 C4.03353659,18 0,13.9672317 0,9.00878049 C0,4.05109756 4.03353659,0.0175609756 8.99121951,0.0175609756 C13.9489024,0.0175609756 17.982439,4.05109756 17.982439,9.00878049 C17.982439,13.9672317 13.9489024,18 8.99121951,18 Z" id="Fill-2" fill="#09A057"></path>
+                    <path d="M3.01947805,5.60462927 C2.90337805,5.6042122 2.79658537,5.54103659 2.74028049,5.43949024 C2.68399756,5.33792195 2.68700488,5.21387561 2.74818293,5.11518293 C4.08764634,2.95603902 6.4503439,1.64522195 8.99121951,1.65160976 C9.16189024,1.66006098 9.29594634,1.8009 9.29594634,1.97179024 C9.29594634,2.14265854 9.16189024,2.28351951 8.99121951,2.29194878 C6.67117317,2.28538537 4.51360976,3.4821 3.29079512,5.45373659 C3.2328,5.54784146 3.13002439,5.60500244 3.01947805,5.60462927" id="Fill-1" fill="#FFFFFF"></path>
+                    <text id="五" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="12">五</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-26" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="20" height="20"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

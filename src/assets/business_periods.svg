@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>business_periods</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7还款情况" transform="translate(-16.000000, -79.000000)">
+            <g id="business_periods" transform="translate(16.000000, 79.000000)">
+                <circle id="Oval-2" fill="#FFB41C" cx="11" cy="11" r="11"></circle>
+                <g id="分期付款" transform="translate(4.000000, 6.000000)" fill="#FFFFFF">
+                    <path d="M12.4741734,3.90016031 L0.535278432,3.90016031 L0.535278432,8.72776119 C0.535278432,9.19307352 0.893456402,9.54202875 1.37097408,9.54202875 L11.5787484,9.54202875 C12.0563058,9.54202875 12.4144837,9.19307352 12.4144837,8.72776119 L12.4741734,3.90016031 Z M2.14701973,7.97161415 L4.41542725,7.97161415 L4.41542725,7.0409895 L2.14701973,7.0409895 L2.14701973,7.97161415 Z M0.535278432,2.91137645 L12.4741734,2.91137645 L12.4741734,1.22460475 C12.4741734,0.759292427 12.1159955,0.410337203 11.6384381,0.410337203 L1.4307035,0.410337203 C0.953146112,0.410337203 0.594968142,0.759292427 0.594968142,1.22460475 L0.535278432,2.91137645 L0.535278432,2.91137645 Z" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
